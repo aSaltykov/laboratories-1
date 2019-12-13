@@ -20,3 +20,4 @@ else:
    Fx=1/(x**2-4)
 
 print("F(x) =", round(Fx, 6))
+print("Yura")

@@ -24,3 +24,4 @@ else:
     value_1 = 0
     value_2 = 0
 print("a =", value_2 ,"b =",value_2)
+print ("Y")
